@@ -1,1 +1,1 @@
-# Getting_to_know_C-
+# Getting_to_know_C++
