@@ -15,7 +15,6 @@ void decToBinary(int n) {
     for (int j = i - 1; j >= 0; j--) 
         cout << binaryNum[j]; 
 } 
-
 int main(){
 	int n ;
 	cin >> n; 
